@@ -75,7 +75,27 @@ O próprio app avisa quando sai uma versão nova. Toque em **Baixar agora** e in
 
 ## 💜 Apoie o projeto
 
-O Station-Z é gratuito e se mantém com anúncios. Para usar sem anúncios, assista aos vídeos de apoio do dia no **Menu › Apoiar o projeto** ou compre o "sem anúncios para sempre" dentro do app.
+O Station-Z é gratuito e se mantém com anúncios e com o apoio da comunidade, como o [Live Pix do Znacker](https://livepix.gg/znacker). Para usar sem anúncios, assista aos vídeos de apoio do dia no **Menu › Apoiar o projeto** ou compre o "sem anúncios para sempre" dentro do app.
+
+## 🙌 Créditos
+
+O Station-Z existe graças a estes canais. Siga e apoie:
+
+<div align="center">
+
+<a href="https://youtube.com/@znacker"><img src="https://img.shields.io/badge/YouTube-Znacker-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Znacker no YouTube" /></a>
+<a href="https://www.instagram.com/znacker77/"><img src="https://img.shields.io/badge/Instagram-Znacker-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Znacker no Instagram" /></a>
+<a href="https://livepix.gg/znacker"><img src="https://img.shields.io/badge/Live%20Pix-Apoiar%20o%20Znacker-8B5CF6?style=for-the-badge" alt="Apoiar o Znacker com Live Pix" /></a>
+<a href="https://belmante.com.br/"><img src="https://img.shields.io/badge/Site-Belmante-1F1F2E?style=for-the-badge&labelColor=3A3A4A" alt="Site do Belmante" /></a>
+
+</div>
+
+| Canal | Onde |
+|---|---|
+| **Znacker** | [YouTube](https://youtube.com/@znacker) · [Instagram](https://www.instagram.com/znacker77/) · [Live Pix](https://livepix.gg/znacker) |
+| **Belmante** | [belmante.com.br](https://belmante.com.br/) |
+
+Os jogos, recompilações e ports listados no app pertencem aos seus autores e projetos originais; o Station-Z só organiza e indica onde encontrá-los.
 
 ## 🔒 Privacidade
 
