@@ -1,6 +1,6 @@
 # Guia: como criar um addon do Station-Z
 
-Este guia ensina, passo a passo, a escrever um addon num editor de texto, sem usar o portal. No fim você terá um arquivo `.json` que funciona no app, no seu celular ou para todo mundo.
+Este guia ensina, passo a passo, a escrever um addon num editor de texto. No fim você terá um arquivo `.json` que funciona no app, no seu celular ou para todo mundo.
 
 ## 1. O que é um addon
 
