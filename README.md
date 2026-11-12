@@ -8,13 +8,11 @@
 
 Recompilações, ports e jogos que saíram das lojas, num só lugar no seu Android.
 
-<br />
-
 <img src="https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android 7.0 ou mais novo" />
-<img src="https://img.shields.io/github/v/release/BelmanteGu/stationz-app?style=for-the-badge&label=vers%C3%A3o&color=8B5CF6" alt="Versão mais nova" />
+<img src="https://img.shields.io/badge/vers%C3%A3o-0.5.1-8B5CF6?style=for-the-badge" alt="Versão 0.5.1" />
 <img src="https://img.shields.io/badge/status-ativo-22C55E?style=for-the-badge" alt="Status: ativo" />
 
-<br /><br />
+<br />
 
 <a href="https://github.com/BelmanteGu/stationz-app/releases/latest">
   <img src="https://img.shields.io/badge/BAIXAR-APK-8B5CF6?style=for-the-badge&logo=android&logoColor=white&labelColor=1F1F2E" alt="Baixar o APK" height="44" />
@@ -24,9 +22,9 @@ Recompilações, ports e jogos que saíram das lojas, num só lugar no seu Andro
   <img src="https://img.shields.io/badge/PRIVACIDADE-POL%C3%8DTICA-1F1F2E?style=for-the-badge&labelColor=3A3A4A" alt="Política de privacidade" height="44" />
 </a>
 
-<br /><br />
-
+<!-- Contador de downloads: só funciona com o repositório público. No lançamento, troque este comentário por:
 <img src="https://img.shields.io/github/downloads/BelmanteGu/stationz-app/total?style=for-the-badge&label=downloads&color=6D28D9&labelColor=3A3A4A" alt="Total de downloads" />
+-->
 
 </div>
 
