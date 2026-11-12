@@ -9,13 +9,17 @@
 Recompilações, ports e jogos que saíram das lojas, num só lugar no seu Android.
 
 <img src="https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android 7.0 ou mais novo" />
-<img src="https://img.shields.io/badge/vers%C3%A3o-0.5.1-8B5CF6?style=for-the-badge" alt="Versão 0.5.1" />
+<img src="https://img.shields.io/badge/vers%C3%A3o-0.5.2-8B5CF6?style=for-the-badge" alt="Versão 0.5.2" />
 <img src="https://img.shields.io/badge/status-ativo-22C55E?style=for-the-badge" alt="Status: ativo" />
 
 <br />
 
 <a href="https://github.com/BelmanteGu/stationz-app/releases/latest">
   <img src="https://img.shields.io/badge/BAIXAR-APK-8B5CF6?style=for-the-badge&logo=android&logoColor=white&labelColor=1F1F2E" alt="Baixar o APK" height="44" />
+</a>
+&nbsp;
+<a href="GUIA-ADDON.md">
+  <img src="https://img.shields.io/badge/GUIA-ADDON-1F1F2E?style=for-the-badge&labelColor=3A3A4A" alt="Guia para criar addon" height="44" />
 </a>
 &nbsp;
 <a href="https://stationz-legal.pages.dev/privacidade/">
@@ -63,6 +67,10 @@ Cada jogo traz versão, tamanho, novidades de cada atualização e relatos de qu
 | `StationZ-X.Y.Z-armv7-32bit.apk` | Celulares antigos, de 32 bits. |
 
 3. Abra o arquivo baixado. Se o Android pedir, permita instalar apps desta fonte.
+
+## 🧩 Crie seu addon
+
+Quer pôr links extras nos jogos (fanart, vídeos, traduções, mods)? Siga o [guia passo a passo para criar um addon](GUIA-ADDON.md).
 
 ## 🔄 Como atualizar
 
