@@ -26,9 +26,7 @@ Recompilações, ports e jogos que saíram das lojas, num só lugar no seu Andro
   <img src="https://img.shields.io/badge/PRIVACIDADE-POL%C3%8DTICA-1F1F2E?style=for-the-badge&labelColor=3A3A4A" alt="Política de privacidade" height="44" />
 </a>
 
-<!-- Contador de downloads: só funciona com o repositório público. No lançamento, troque este comentário por:
 <img src="https://img.shields.io/github/downloads/BelmanteGu/stationz-app/total?style=for-the-badge&label=downloads&color=6D28D9&labelColor=3A3A4A" alt="Total de downloads" />
--->
 
 </div>
 
