@@ -9,7 +9,7 @@
 Recompilações, ports e jogos que saíram das lojas, num só lugar no seu Android.
 
 <img src="https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android 7.0 ou mais novo" />
-<img src="https://img.shields.io/badge/vers%C3%A3o-0.5.2-8B5CF6?style=for-the-badge" alt="Versão 0.5.2" />
+<img src="https://img.shields.io/badge/vers%C3%A3o-0.5.3-8B5CF6?style=for-the-badge" alt="Versão 0.5.3" />
 <img src="https://img.shields.io/badge/status-ativo-22C55E?style=for-the-badge" alt="Status: ativo" />
 
 <br />
