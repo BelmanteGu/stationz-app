@@ -9,7 +9,7 @@
 Recompilações, ports e jogos que saíram das lojas, num só lugar no seu Android.
 
 <img src="https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android 7.0 ou mais novo" />
-<img src="https://img.shields.io/badge/vers%C3%A3o-0.5.3-8B5CF6?style=for-the-badge" alt="Versão 0.5.3" />
+<img src="https://img.shields.io/badge/vers%C3%A3o-0.6.0-8B5CF6?style=for-the-badge" alt="Versão 0.6.0" />
 <img src="https://img.shields.io/badge/status-ativo-22C55E?style=for-the-badge" alt="Status: ativo" />
 
 <br />
@@ -32,6 +32,27 @@ Recompilações, ports e jogos que saíram das lojas, num só lugar no seu Andro
 
 ---
 
+## 📸 Telas
+
+<table>
+  <tr>
+    <td><img src="assets/telas/01-inicio.jpg" alt="Início com o celular deitado" /></td>
+    <td><img src="assets/telas/02-explorar-controle.jpg" alt="Explorar com o controle" /></td>
+  </tr>
+  <tr>
+    <td align="center">Início no modo console</td>
+    <td align="center">Explorar com o controle</td>
+  </tr>
+  <tr>
+    <td><img src="assets/telas/03-noticias.jpg" alt="Notícias" /></td>
+    <td><img src="assets/telas/04-meu-aparelho.jpg" alt="Meu aparelho" /></td>
+  </tr>
+  <tr>
+    <td align="center">Notícias</td>
+    <td align="center">Meu aparelho</td>
+  </tr>
+</table>
+
 ## 📖 Sobre
 
 O **Station-Z** é uma biblioteca de jogos para Android: recompilações nativas, ports de PC e de consoles, jogos oficiais e títulos que saíram das lojas, todos organizados num só app.
@@ -40,10 +61,12 @@ Cada jogo traz versão, tamanho, novidades de cada atualização e relatos de qu
 
 ## ✨ O que o app tem
 
+- 🕹️ **Modo console:** vire o celular e o app vira um console, com capas grandes e a arte do jogo ao fundo.
+- 🎮 **Suporte a controle:** navegue pelo app inteiro com o direcional e os botões A, B, X e Y.
 - 🎮 **Catálogo organizado:** recompilações, jogos oficiais e removidos das lojas, em seções e coleções.
 - 🔎 **Busca e filtros:** ache o jogo pelo nome e filtre por seção.
 - 📦 **Página do jogo completa:** versão, tamanho, histórico de versões e o que mudou em cada uma.
-- ⬇️ **Download dentro do app:** acompanhe o progresso pela notificação, sem sair do Station-Z.
+- ⬇️ **Download dentro do app, sem precisar de conta:** acompanhe o progresso pela notificação e cancele quando quiser.
 - 📱 **"Roda no meu celular?":** relatos da comunidade, aparelho por aparelho, com nota de 1 a 5.
 - 🔧 **Meu aparelho:** veja o chip, a GPU, a memória e a tela do seu celular.
 - ⭐ **Meu Hub:** seus favoritos e os jogos que você instalou.
@@ -73,6 +96,8 @@ Quer pôr links extras nos jogos (fanart, vídeos, traduções, mods)? Siga o [g
 ## 🔄 Como atualizar
 
 O próprio app avisa quando sai uma versão nova. Toque em **Baixar agora** e instale por cima: sua conta, seus favoritos e seus dados continuam.
+
+> **Vindo de uma versão anterior à 0.6.0?** A partir da 0.6.0 o app tem uma assinatura própria, então o Android não deixa instalar por cima das versões antigas. Desinstale a versão antiga e instale a nova; depois é só entrar na conta de novo. Os jogos baixados continuam na pasta Downloads. Isso só acontece uma vez.
 
 ## ✅ Requisitos
 
