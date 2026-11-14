@@ -9,7 +9,7 @@
 Recompilações, ports e jogos que saíram das lojas, num só lugar no seu Android.
 
 <img src="https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android 7.0 ou mais novo" />
-<img src="https://img.shields.io/badge/vers%C3%A3o-0.6.0-8B5CF6?style=for-the-badge" alt="Versão 0.6.0" />
+<img src="https://img.shields.io/badge/vers%C3%A3o-0.6.1-8B5CF6?style=for-the-badge" alt="Versão 0.6.1" />
 <img src="https://img.shields.io/badge/status-ativo-22C55E?style=for-the-badge" alt="Status: ativo" />
 
 <br />
@@ -63,6 +63,7 @@ Cada jogo traz versão, tamanho, novidades de cada atualização e relatos de qu
 
 - 🕹️ **Modo console:** vire o celular e o app vira um console, com capas grandes e a arte do jogo ao fundo.
 - 🎮 **Suporte a controle:** navegue pelo app inteiro com o direcional e os botões A, B, X e Y.
+- 🕹️ **Emuladores:** uma aba com mais de 30 emuladores (RetroArch, PPSSPP, Dolphin, Azahar, ARMSX2, Eden, Winlator e outros), só com links oficiais.
 - 🎮 **Catálogo organizado:** recompilações, jogos oficiais e removidos das lojas, em seções e coleções.
 - 🔎 **Busca e filtros:** ache o jogo pelo nome e filtre por seção.
 - 📦 **Página do jogo completa:** versão, tamanho, histórico de versões e o que mudou em cada uma.
@@ -98,6 +99,18 @@ Quer pôr links extras nos jogos (fanart, vídeos, traduções, mods)? Siga o [g
 O próprio app avisa quando sai uma versão nova. Toque em **Baixar agora** e instale por cima: sua conta, seus favoritos e seus dados continuam.
 
 > **Vindo de uma versão anterior à 0.6.0?** A partir da 0.6.0 o app tem uma assinatura própria, então o Android não deixa instalar por cima das versões antigas. Desinstale a versão antiga e instale a nova; depois é só entrar na conta de novo. Os jogos baixados continuam na pasta Downloads. Isso só acontece uma vez.
+
+## 🛡️ Aviso de antivírus (VirusTotal)
+
+No VirusTotal, 2 de quase 70 antivírus (Google e Ikarus) marcam o APK do Station-Z como "trojan". **É um falso positivo: o app não tem vírus nem trojan.** Os outros antivírus, incluindo Kaspersky, ESET, Avast, Bitdefender e Microsoft, não acusam nada.
+
+O alerta é automático e vem da combinação de coisas que o app faz para funcionar, sempre para você e na sua tela:
+
+- **Instala os jogos que você escolhe baixar**, e só depois de você confirmar no instalador do Android.
+- **Vê quais apps estão instalados** para mostrar o botão **Jogar** nos jogos que você já tem.
+- **Lê os dados do aparelho** (chip, placa de vídeo, memória e tela) para mostrar na tela **Meu aparelho**. Eles só saem do celular quando você mesmo envia um relato de "roda no meu celular?".
+
+O Station-Z não lê seus contatos, mensagens, fotos, localização nem senhas. Veja também a [política de privacidade](https://stationz-legal.pages.dev/privacidade/).
 
 ## ✅ Requisitos
 
