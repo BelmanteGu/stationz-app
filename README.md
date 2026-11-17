@@ -9,7 +9,7 @@
 Recompilações, ports e jogos que saíram das lojas, num só lugar no seu Android.
 
 <img src="https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android 7.0 ou mais novo" />
-<img src="https://img.shields.io/badge/vers%C3%A3o-0.6.1-8B5CF6?style=for-the-badge" alt="Versão 0.6.1" />
+<img src="https://img.shields.io/badge/vers%C3%A3o-0.7.0-8B5CF6?style=for-the-badge" alt="Versão 0.7.0" />
 <img src="https://img.shields.io/badge/status-ativo-22C55E?style=for-the-badge" alt="Status: ativo" />
 
 <br />
@@ -36,22 +36,40 @@ Recompilações, ports e jogos que saíram das lojas, num só lugar no seu Andro
 
 <table>
   <tr>
-    <td><img src="assets/telas/01-inicio.jpg" alt="Início com o celular deitado" /></td>
-    <td><img src="assets/telas/02-explorar-controle.jpg" alt="Explorar com o controle" /></td>
+    <td><img src="assets/telas/v0.7/01-inicio-banner.jpg" alt="Início" /></td>
+    <td><img src="assets/telas/v0.7/03-jogo.jpg" alt="Página do jogo" /></td>
+    <td><img src="assets/telas/v0.7/05-baixar-escolha.jpg" alt="Escolha da versão e do arquivo" /></td>
   </tr>
   <tr>
-    <td align="center">Início no modo console</td>
-    <td align="center">Explorar com o controle</td>
+    <td align="center">Início</td>
+    <td align="center">Página do jogo</td>
+    <td align="center">Escolha a versão e o arquivo</td>
   </tr>
   <tr>
-    <td><img src="assets/telas/03-noticias.jpg" alt="Notícias" /></td>
-    <td><img src="assets/telas/04-meu-aparelho.jpg" alt="Meu aparelho" /></td>
+    <td><img src="assets/telas/v0.7/11-degrade.jpg" alt="Cores e degradê" /></td>
+    <td><img src="assets/telas/v0.7/12-claro-inicio.jpg" alt="Tema claro" /></td>
+    <td><img src="assets/telas/v0.7/31-widgets.jpg" alt="Widgets na tela inicial" /></td>
   </tr>
   <tr>
-    <td align="center">Notícias</td>
-    <td align="center">Meu aparelho</td>
+    <td align="center">Sua cor, com degradê</td>
+    <td align="center">Tema claro</td>
+    <td align="center">Widgets na tela inicial</td>
   </tr>
 </table>
+
+**Celular deitado (modo console, com controle):**
+
+<table>
+  <tr>
+    <td><img src="assets/telas/v0.7/21-hub-explorar.jpg" alt="Explorar com o celular deitado" /></td>
+    <td><img src="assets/telas/v0.7/22-hub-jogo.jpg" alt="Jogo com o celular deitado" /></td>
+  </tr>
+  <tr>
+    <td><img src="assets/telas/v0.7/23-hub-baixar-painel.jpg" alt="Baixar no painel lateral" /></td>
+    <td><img src="assets/telas/v0.7/25-hub-menu.jpg" alt="Menu com o celular deitado" /></td>
+  </tr>
+</table>
+
 
 ## 📖 Sobre
 
@@ -61,21 +79,25 @@ Cada jogo traz versão, tamanho, novidades de cada atualização e relatos de qu
 
 ## ✨ O que o app tem
 
-- 🕹️ **Modo console:** vire o celular e o app vira um console, com capas grandes e a arte do jogo ao fundo.
+- 🕹️ **Modo console:** vire o celular e o app vira um console, com barra lateral, capas grandes, a arte do jogo ao fundo e janelas no painel lateral.
 - 🎮 **Suporte a controle:** navegue pelo app inteiro com o direcional e os botões A, B, X e Y.
 - 🕹️ **Emuladores:** uma aba com mais de 30 emuladores (RetroArch, PPSSPP, Dolphin, Azahar, ARMSX2, Eden, Winlator e outros), só com links oficiais.
 - 🎮 **Catálogo organizado:** recompilações, jogos oficiais e removidos das lojas, em seções e coleções.
 - 🔎 **Busca e filtros:** ache o jogo pelo nome e filtre por seção.
-- 📦 **Página do jogo completa:** versão, tamanho, histórico de versões e o que mudou em cada uma.
+- 📦 **Página do jogo completa:** versão, tamanho, histórico de versões, o que mudou em cada uma e quem fez o port.
+- 📂 **Escolha o que baixar:** a versão e o arquivo da release, com o tamanho de cada um e o recomendado marcado.
 - ⬇️ **Download dentro do app, sem precisar de conta:** acompanhe o progresso pela notificação e cancele quando quiser.
 - 📱 **"Roda no meu celular?":** relatos da comunidade, aparelho por aparelho, com nota de 1 a 5.
 - 🔧 **Meu aparelho:** veja o chip, a GPU, a memória e a tela do seu celular.
 - ⭐ **Meu Hub:** seus favoritos e os jogos que você instalou.
 - 🧩 **Tudo que precisa:** links extras de cada jogo (fanart, vídeos, traduções, mods) pelos repositórios que você escolher.
 - 📰 **Notícias e comunidade:** artigos, imagens e enquetes.
-- 🔔 **Aviso de jogo novo:** uma notificação quando entra jogo no catálogo.
+- 🔔 **Avisos:** jogo novo, notícias, posts e enquetes, atualização dos seus jogos e versão nova do app.
+- 📱 **Widgets na tela inicial:** continuar jogando, novidades, notícias e busca.
+- 🆔 **Seu @:** um nome único, a sua identidade no Station-Z.
 - 🆕 **Aviso de versão nova:** o app avisa quando sai uma atualização, com as novidades.
-- 🌓 **Tema escuro e claro**, em português e inglês.
+- 🎨 **Do seu jeito:** escolha a cor do app (ou qualquer tom), com degradê se quiser.
+- 🌓 **Tema escuro e claro**, em português, inglês e espanhol.
 
 ## 📲 Como instalar
 
