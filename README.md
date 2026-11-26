@@ -9,7 +9,7 @@
 Recompilações, ports e jogos que saíram das lojas, num só lugar no seu Android.
 
 <img src="https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android 7.0 ou mais novo" />
-<img src="https://img.shields.io/badge/vers%C3%A3o-0.7.0-8B5CF6?style=for-the-badge" alt="Versão 0.7.0" />
+<img src="https://img.shields.io/badge/vers%C3%A3o-1.0.0-8B5CF6?style=for-the-badge" alt="Versão 1.0.0" />
 <img src="https://img.shields.io/badge/status-ativo-22C55E?style=for-the-badge" alt="Status: ativo" />
 
 <br />
@@ -95,7 +95,7 @@ Cada jogo traz versão, tamanho, novidades de cada atualização e relatos de qu
 - 🔔 **Avisos:** jogo novo, notícias, posts e enquetes, atualização dos seus jogos e versão nova do app.
 - 📱 **Widgets na tela inicial:** continuar jogando, novidades, notícias e busca.
 - 🆔 **Seu @:** um nome único, a sua identidade no Station-Z.
-- 🆕 **Aviso de versão nova:** o app avisa quando sai uma atualização, com as novidades.
+- 🆕 **Aviso de versão nova:** o app avisa quando sai uma atualização, com as novidades, e deixa escolher a versão e o APK certo para o seu celular.
 - 🎨 **Do seu jeito:** escolha a cor do app (ou qualquer tom), com degradê se quiser.
 - 🌓 **Tema escuro e claro**, em português, inglês e espanhol.
 
@@ -118,7 +118,7 @@ Quer pôr links extras nos jogos (fanart, vídeos, traduções, mods)? Siga o [g
 
 ## 🔄 Como atualizar
 
-O próprio app avisa quando sai uma versão nova. Toque em **Baixar agora** e instale por cima: sua conta, seus favoritos e seus dados continuam.
+O próprio app avisa quando sai uma versão nova. Toque em **Baixar agora**, escolha a versão e o arquivo (o recomendado para o seu celular já vem marcado) e instale por cima: sua conta, seus favoritos e seus dados continuam. Para instalar outra versão quando quiser, use **Configurações > Versões do app**. A versão instalada aparece no fim das Configurações.
 
 > **Vindo de uma versão anterior à 0.6.0?** A partir da 0.6.0 o app tem uma assinatura própria, então o Android não deixa instalar por cima das versões antigas. Desinstale a versão antiga e instale a nova; depois é só entrar na conta de novo. Os jogos baixados continuam na pasta Downloads. Isso só acontece uma vez.
 
